@@ -1,0 +1,5 @@
+
+{
+  "name": "DockMaster: AI Dockerizer",
+  "description": "An AI-powered utility to instantly generate optimized Dockerfiles, Docker Compose configurations, and Nginx reverse proxy setups for Flask and Django applications."
+}
